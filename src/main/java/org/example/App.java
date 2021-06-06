@@ -1,10 +1,14 @@
+/*
+ *  UCF COP3330 Summer 2021 Assignment 12 Solution
+ *  Copyright 2021 Isaac Liljeros
+ */
+
 package org.example;
 
 import java.util.Scanner;
 
 /**
  * Hello world!
- *
  */
 public class App {
     public static void main( String[] args ) {
